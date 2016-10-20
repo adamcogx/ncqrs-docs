@@ -10,7 +10,9 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
+   :caption: User Documentation
 
+   description
 
 
 Indices and tables
