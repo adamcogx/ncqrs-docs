@@ -6,10 +6,11 @@
 Welcome to NCQRS's documentation!
 =================================
 
-Contents:
+
 
 .. toctree::
    :maxdepth: 2
-   :caption: User Documentation
 
    description
+   
+   installation
